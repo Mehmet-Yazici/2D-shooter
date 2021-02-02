@@ -5,4 +5,4 @@ plus like shapes are powerups and they increase your attack speed
 
 the enemy follows you around and updates possible routes if you break barrels.
 
-Play this game at https://b21727853.github.io/2D-shooter/
+Play this game at: https://mehmet-yazici.github.io/2D-shooter/
